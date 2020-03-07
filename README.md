@@ -1,2 +1,2 @@
 # Sort
-dynamic present sorting algorithm
+dynamic present sorting algorithm MFC
